@@ -1,8 +1,8 @@
 ---
-title: Our Coffee
+title: Our Dreambox
 type: products
 page: /products.html
-image: /img/products/jumbotron.jpg
+image: /img/terapija.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -99,5 +99,6 @@ pricing:
       plan: Custom
       price: '?'
 ---
+
 
 
